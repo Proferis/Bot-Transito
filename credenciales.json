@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bot-votar",
+  "private_key_id": "587be56c8112f787b2f394a5623cfd5b388efa49",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCehncybaMkA06c\nS/5hULv9PDAUO2tz67IBd1vlvOhJpe9GRI+9sGiOBZa4ptvGwUlyJv3Wx0yI+ZwY\nRCRKB6mrodMxs8Df8KZPaViUGJJlWdptxFRMdANcDaokBjlWGovGJiD7p0cLHdoa\nqNsJjPYuS1sYSHvE6s2XbudnrYiIxpZVed42pke5cdYzfHqJzwUOwDksU6of2FDY\n/Me328EKO9G7Z1gNkb+zXPGBC3bEx6ri2H5wO5BsgkLEKtfVn5rMewzHhzAqS+A1\naLhjPqrr3IjEqAheaUbkQkCPQx2ThEGrN/V8d4OEDJp4nsKCk3QQit2pRI+HmCKY\nf548QFI/AgMBAAECggEADfbQVyvbPBfie9gh31aqSKNdpNqbG4n+kyx9dt5OI/au\n/iSZ+N6qRyBs53UjVP2/x4NxxtKlhkdenbCa9b55DrphjTZFXjSnocUo3VrQwobI\nu/SYbGenyBsYCrZVpKUP/PNs4l4Y3vzRMpn/OXcmVGuk6Z2w8Waxl45YagSaS1n3\nRlIf5Evv7PKgC6QhQ1rX5EoIKbzY8G8w50S8Opfc3c8ZBcGN8Kp5LKAlw0GXTtwr\ndoIA0IATl33XvfHJcCvnZzUDHjCpHttfz62WPPe0XZ1YezMGTGn2qgpoktdTxqib\ns2bYoNY+WvOX3sJRgzJFltEfkiHLnitwCef75HO7kQKBgQDey2HcHZZqPlNr0DkY\n7CDt7c3MBAQxkEFKXT6aIPOiTrn7cX6sGFaSQMceEL5XJiP4huub01zeqzmwL6Jn\n6HMrUZDTLpCi4oODiZJtcLb+VPaRtAX0NDYBNHLZj5TXWSSvqFhCD9fxXvlNZuNT\njvxbEZWiIISaPZNfp/xUKMzPOQKBgQC2JuwNsoue09PUIyIr8BEwZiwCeaM1GcLd\n7qe3wH9nEpnhEiR2HTYhHZAWmjw/ZQPSKxTemXXQ3AxXs0jUlwqp9yZAul09WVIy\n8N0Ux0CeprKcLeDCdoy2GXrEHGA+x18RDrCEY5UvjwQwAhH7R1Jq8Lx0X1Di+fl9\nIFCoMyE1NwKBgB59hQoDvpcRqocBux6vCh6lwdle31gNHvJXan7bbZxT294OfUB+\nIDLpzJZPwkzY+mlDxbDQr1AF7OIw0rAXvtM52XEdWUwBZfA1fqWdnF2YMRplob72\n+kEV9XXS0ZLbL0se5d08n9f3oHS4VPoVgnHQKUND4gHd1XJs4fp+jvD5AoGBAItm\nUCLPcHC1thhUZvNvPwhmOOoQAupBc9N6sFo89IOCRcdspgDKrEE9qabSlKcDfKAc\nHlWY5gRYUw3PBD7F9QBMR7cjqPWpZPHdSaR8NKT1+Bz0M10/csJtz3lEKhgBZmzc\nbBR1TZffAJppCy/dzmJPKDp7M6DxI5Ex6OhAcPqTAoGBAMtC8nGjhubj9lZ4zQTo\nPycetKhlcg0PTEobEE9zgqFx8rWDXUCMEV51NB5/YGbtfZFipfQ4MOdaT5e7C/Q+\nwOXl9t+9+6YutWp5w9FeJIRuiI7/c/L/h8PmJ99XqTYGHdb+cEHot57+J5QC/oHB\nekDU9gfxwneEzfHp6peYe3ni\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-votar@bot-votar.iam.gserviceaccount.com",
+  "client_id": "113202673084879565215",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-votar%40bot-votar.iam.gserviceaccount.com"
+}

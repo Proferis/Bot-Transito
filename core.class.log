@@ -1,0 +1,100 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815054243@s.whatsapp.net',
+    fromMe: false,
+    id: '82B1DA5BABFD6FF5DF85F87EBDD7BAD6',
+    participant: undefined
+  },
+  messageTimestamp: 1692045078,
+  pushName: 'Marketing Digital',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5493815054243'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815054243@s.whatsapp.net',
+    fromMe: false,
+    id: '87B4DABCB930746BB589DC0AFC91AB29',
+    participant: undefined
+  },
+  messageTimestamp: 1692045084,
+  pushName: 'Marketing Digital',
+  broadcast: false,
+  message: Message {
+    conversation: 'Licencia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Licencia',
+  from: '5493815054243'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815054243@s.whatsapp.net',
+    fromMe: false,
+    id: '5F5794E3DE214CFC5CD6FDF1BB749A78',
+    participant: undefined
+  },
+  messageTimestamp: 1692045090,
+  pushName: 'Marketing Digital',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5493815054243'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815054243@s.whatsapp.net',
+    fromMe: false,
+    id: 'E10A09098ECB4E0DE72D80A7F3A8A54A',
+    participant: undefined
+  },
+  messageTimestamp: 1692045108,
+  pushName: 'Marketing Digital',
+  broadcast: false,
+  message: Message {
+    conversation: 'Volver',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Volver',
+  from: '5493815054243'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815054243@s.whatsapp.net',
+    fromMe: false,
+    id: '89B9A5946E8D66B904ED316FF4BB90A9',
+    participant: undefined
+  },
+  messageTimestamp: 1692045114,
+  pushName: 'Marketing Digital',
+  broadcast: false,
+  message: Message {
+    conversation: 'Categorías',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Categorías',
+  from: '5493815054243'
+}

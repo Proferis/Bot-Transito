@@ -1,0 +1,1531 @@
+[
+  {
+    "ref": "ans_8cf1fc71-1752-42f3-9b58-675eb1694d98",
+    "keyword": "key_a2beafaf-3fdd-4533-9e22-36a962ed1412",
+    "answer": "👋 Hola, bienvenido/a al 🤖*Chatbot de Transito*🤖,te ayudaré a responder tu consulta:",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "80724737ec261347a38a7ff235d13824",
+    "from": "5493815054243"
+  },
+  {
+    "ref": "ans_6f26b72e-cc9d-4536-b198-f831a7acb513",
+    "keyword": "ans_8cf1fc71-1752-42f3-9b58-675eb1694d98",
+    "answer": "👇 *Escribí tu consulta* 👇\n👉 *Licencia*\n👉 *Normativa*\n👉 *Categorias*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [
+        {
+          "ref": "key_316fe7b2-6057-4b99-b498-94212a9418b7",
+          "keyword": [
+            "Licencia",
+            "licencia"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "274527b899fb334398063554deecd93f"
+        },
+        {
+          "ref": "ans_1f303383-ccc9-4096-9834-2c1d89ff760f",
+          "keyword": "key_316fe7b2-6057-4b99-b498-94212a9418b7",
+          "answer": "Requisitos para Obtener la Licencia",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "a7f7ffd9d3a2409b507cb31f9d4c062c"
+        },
+        {
+          "ref": "ans_9387e72b-412c-433f-82b7-e0fc354b8cbc",
+          "keyword": "ans_1f303383-ccc9-4096-9834-2c1d89ff760f",
+          "answer": "👇 *Selecciona la Opcion* 👇\n *1* 💳Primera vez💳\n *2* 📑Renovación📑\n *3* 📃Ampliación o Cambio de Clase📃\n *4* 📰Duplicado📰\n *5* 👉🏻Aranceles👈🏻",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [
+              {
+                "ref": "key_769fb1f1-037c-4d8d-8f37-4f4a36fe7822",
+                "keyword": "1",
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "065e0005da6e5c278a53691e53b48955"
+              },
+              {
+                "ref": "ans_7b6d17f5-8b22-4a8a-a068-0888e1e06609",
+                "keyword": "key_769fb1f1-037c-4d8d-8f37-4f4a36fe7822",
+                "answer": "Aguarde unos segundos...⏳",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "87111bceebacc77620499c9f94a24bb4"
+              },
+              {
+                "ref": "ans_68809adb-c1fe-4f3e-84b4-60ce2215cec0",
+                "keyword": "ans_7b6d17f5-8b22-4a8a-a068-0888e1e06609",
+                "answer": "*Estos son los requisitos*: 💳Primera vez💳\n*CATEGORIAS PARTICULARES*\n*1)* 1 UNA FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* CERTIFICADO DE GRUPO SANGUINEO FIRMADO POR PROFESIONAL MEDICO O BIOQUIMICO\n*3)* COPIA DE LA TARJETA VERDE\n*4)* CERTIFICADO Y BOLETA DE PAGO DEL CENAT:➡️ https://boletadepago.seguridadvial.gob.ar/ ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "e3fbd627c8da20780a19617d578da0a9"
+              },
+              {
+                "ref": "ans_1427c16f-2973-4915-90bb-aa31b891564d",
+                "keyword": "ans_68809adb-c1fe-4f3e-84b4-60ce2215cec0",
+                "answer": "*CATEGORIAS PROFESIONALES D1 – D2 – D3*\n*1)* 1 UNA FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* 1 UNA FOTOCOPIA DE LA LICENCIA O CERTIFICACION QUE ACREDITE UN AÑO DE ANTIGÜEDAD EN CONDUCCION DE AUTO PARTICULAR\n*3)* CERTIFICADO DE BUENA CONDUCTA EMITIDO POR LA POLICÍA PROVINCIAL:➡️ http://www.policiadetucuman.gov.ar/certificados_antecedentes.htm\n*4)* CERTIFICADO DE REINCIDENCIA Y PEDIDO DEL CERTIFICADO:➡️ https://www.argentina.gob.ar/justicia/reincidencia\n*5)* CERTIFICADO DE GRUPO SANGUINEO FIRMADO POR PROFESIONAL MEDICO O BIOQUIMICO\n*6)* COPIA DE LA TARJETA VERDE\n*7)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "dae288a24531c795b163f42e4024c0b5"
+              },
+              {
+                "ref": "ans_3c8bf176-606c-48f6-897e-9940a059f436",
+                "keyword": "ans_1427c16f-2973-4915-90bb-aa31b891564d",
+                "answer": "*MENORES PARTICULARES* \n*1)* 1 UNA FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* CERTIFICADO DE GRUPO SANGUINEO FIRMADO POR PROFESIONAL MEDICO O BIOQUIMICO\n*3)* COPIA DE LA TARJETA VERDE\n*4)* AUTORIZACIÓN DE LOS PADRES O TUTORES\n*5)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ \nescribir la palabra *Volver* para regresar al *Menú Principal* ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "83f5a6c215cb683ec8c973dc78318d86"
+              },
+              {
+                "ref": "key_d43ad483-7eeb-4637-b97a-d07847685559",
+                "keyword": "2",
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "900c9aa0094bfcca4a316ec66236e2fc"
+              },
+              {
+                "ref": "ans_3903f9d2-d9da-421d-8299-16b4105e72f9",
+                "keyword": "key_d43ad483-7eeb-4637-b97a-d07847685559",
+                "answer": "Aguarde unos segundos...⏳",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "88e5486d292745264a5028b752594f14"
+              },
+              {
+                "ref": "ans_07ad2d10-719a-49f1-b499-6f3a3ef32e79",
+                "keyword": "ans_3903f9d2-d9da-421d-8299-16b4105e72f9",
+                "answer": "*La renocación no debe exeder los 90 días del vencimiento*:\n*CATEGORIAS PARTICULARES*\n*1)* FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* ORIGINAL Y COPIA LICENCIA DE CONDUCIR VENCIDA\n*3)* COPIA DE LA TARJETA VERDE\n*4)* CERTIFICADO Y BOLETA DE PAGO DEL CENAT:➡️ https://boletadepago.seguridadvial.gob.ar/ ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "1946df2a4039f9c8f6d4513b7aff986a"
+              },
+              {
+                "ref": "ans_a5c908ba-fff6-4c79-bf67-42afa9647373",
+                "keyword": "ans_07ad2d10-719a-49f1-b499-6f3a3ef32e79",
+                "answer": "*CATEGORIAS PROFESIONALES D1 – D2 – D3*\n*1)* FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* ORIGINAL Y COPIA LICENCIA DE CONDUCIR VENCIDA\n*3)* CERTIFICADO DE BUENA CONDUCTA EMITIDO POR LA POLICÍA PROVINCIAL:➡️ http://www.policiadetucuman.gov.ar/certificados_antecedentes.htm\n*4)* CERTIFICADO DE REINCIDENCIA Y PEDIDO DEL CERTIFICADO:➡️ https://www.argentina.gob.ar/justicia/reincidencia\n*5)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ \nescribir la palabra *Volver* para regresar al *Menú Principal* ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "ba21199049284f6e05f9df0a580c689e"
+              },
+              {
+                "ref": "key_7b198744-7de6-4482-a017-e730d53f7570",
+                "keyword": "3",
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "741cd7b8654e06cc47783fa3ba233c53"
+              },
+              {
+                "ref": "ans_aea3bccb-f20b-4b87-8c36-74ef8b2cd05d",
+                "keyword": "key_7b198744-7de6-4482-a017-e730d53f7570",
+                "answer": "Aguarde unos segundos...⏳",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "8f1efa14d9b53f5affed88789296fe9a"
+              },
+              {
+                "ref": "ans_0cd9b55b-69ed-4a24-bc6e-ca0b449dd1ff",
+                "keyword": "ans_aea3bccb-f20b-4b87-8c36-74ef8b2cd05d",
+                "answer": "*Estos son los requisitos*: 📃Ampliación o Cambio de Clase📃\n*CATEGORIAS PARTICULARES*\n*1)* FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* ORIGINAL Y COPIA LICENCIA DE CONDUCIR\n*3)* COPIA DE LA TARJETA VERDE\n*4)* CERTIFICADO Y BOLETA DE PAGO DEL CENAT:➡️ https://boletadepago.seguridadvial.gob.ar/ ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "c32aa0a3d8c79540de67f68826823da8"
+              },
+              {
+                "ref": "ans_ebeca595-1885-4d15-bc7c-3adee5f9cb9e",
+                "keyword": "ans_0cd9b55b-69ed-4a24-bc6e-ca0b449dd1ff",
+                "answer": "*CATEGORIAS PROFESIONALES D1 – D2 – D3*\n*1)* FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* ORIGINAL Y COPIA LICENCIA DE CONDUCIR\n*3)* CERTIFICADO DE BUENA CONDUCTA EMITIDO POR LA POLICÍA PROVINCIAL:➡️ http://www.policiadetucuman.gov.ar/certificados_antecedentes.htm\n*4)* CERTIFICADO DE REINCIDENCIA Y PEDIDO DEL CERTIFICADO:➡️ https://www.argentina.gob.ar/justicia/reincidencia\n*5)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ \nescribir la palabra *Volver* para regresar al *Menú Principal* ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "5e288e439c1f48c48703ebb66c43385e"
+              },
+              {
+                "ref": "key_a2cbdccb-f932-4500-abcc-a2467ae8f752",
+                "keyword": "4",
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "fc09f52170be47fcb14a1cee9c5d3c52"
+              },
+              {
+                "ref": "ans_310d2207-d7dd-4e60-a781-bbb703d17192",
+                "keyword": "key_a2cbdccb-f932-4500-abcc-a2467ae8f752",
+                "answer": "Aguarde unos segundos...⏳",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "050e91307dca729a633518e0445bfa67"
+              },
+              {
+                "ref": "ans_6251f614-e60c-4670-a9fe-5647b06f57cf",
+                "keyword": "ans_310d2207-d7dd-4e60-a781-bbb703d17192",
+                "answer": "*Estos son los requisitos*: 📰Duplicado📰\n*CATEGORIAS PARTICULARES*\n*1)* FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* ORIGINAL Y COPIA LICENCIA DE CONDUCIR\n*3)* DENUNCIA POLICIAL DE EXTRAVIO O ROBO\n*4)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "9d191652a70a7813260a711569faf68b"
+              },
+              {
+                "ref": "ans_a70e3349-f27a-4029-8fa4-21025d23c28d",
+                "keyword": "ans_6251f614-e60c-4670-a9fe-5647b06f57cf",
+                "answer": "*CATEGORIAS PROFESIONALES D1 – D2 – D3*\n*1)* FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* DENUNCIA POLICIAL DE EXTRAVIO O ROBO\n*3)* CERTIFICADO DE BUENA CONDUCTA EMITIDO POR LA POLICÍA PROVINCIAL:➡️ http://www.policiadetucuman.gov.ar/certificados_antecedentes.htm\n*4)* CERTIFICADO DE REINCIDENCIA Y PEDIDO DEL CERTIFICADO:➡️ https://www.argentina.gob.ar/justicia/reincidencia\n*5)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ \nescribir la palabra *Volver* para regresar al *Menú Principal* ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "4aef3fc48d9e9386bdbcbb4d629a5a3d"
+              },
+              {
+                "ref": "key_c1323a90-82aa-478b-94e2-b77b9510f341",
+                "keyword": "5",
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "660d6f380cd3d2aa67431f161ba4eccf"
+              },
+              {
+                "ref": "ans_af6f33b5-634c-49a2-8d64-a245d8589d40",
+                "keyword": "key_c1323a90-82aa-478b-94e2-b77b9510f341",
+                "answer": "Aguarde unos segundos...⏳",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "3b072cbce0a550d94ef184cba287bd4f"
+              },
+              {
+                "ref": "ans_8b42b496-734c-4ea6-ae84-1c3e515b3fdd",
+                "keyword": "ans_af6f33b5-634c-49a2-8d64-a245d8589d40",
+                "answer": "*(Valor x año + CENAT)*",
+                "options": {
+                  "media": "https://firebasestorage.googleapis.com/v0/b/alojamiento-e7d29.appspot.com/o/ARANCELES.png?alt=media&token=b9540e8d-5672-4cd6-8de9-464659b52ae2",
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "8f0a2c35f56f8523cbbbb8642f20cd00"
+              },
+              {
+                "ref": "ans_8886b9cd-ba0e-4e14-88db-e4bc86877771",
+                "keyword": "ans_8b42b496-734c-4ea6-ae84-1c3e515b3fdd",
+                "answer": "☝️Ver Imagen☝️\nescribir la palabra *Volver* para regresar al *Menú Principal* ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "4b7191eaaa42e3835bc3376361e1bc23"
+              }
+            ],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "fd006b116d078d97a299db0fc40c2746"
+        },
+        {
+          "ref": "key_04da4c6f-488a-4192-88cf-44bac4acb615",
+          "keyword": [
+            "Categorias",
+            "Categorías",
+            "categorías",
+            "categorias",
+            "categoria",
+            "Categoria"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "1a469ad8247010761e0cf0710e8a0daa"
+        },
+        {
+          "ref": "ans_375e5be6-a131-441a-ae85-599dc151475b",
+          "keyword": "key_04da4c6f-488a-4192-88cf-44bac4acb615",
+          "answer": "Aguarde unos segundos...⏳",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "6593d9f08d075a9cd30bc1eb6f990b26"
+        },
+        {
+          "ref": "ans_1585f088-041a-425e-81e9-e402f7a92a87",
+          "keyword": "ans_375e5be6-a131-441a-ae85-599dc151475b",
+          "answer": "*Categorias y Sub-Categorias*",
+          "options": {
+            "media": "https://villaurquiza.gob.ar/wp-content/uploads/2021/02/categorias.jpg-2.png",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "d065fd1e6f70fd02f889453e9c5ee9cf"
+        },
+        {
+          "ref": "ans_93f89a3e-148a-4bca-ba48-c923591afc57",
+          "keyword": "ans_1585f088-041a-425e-81e9-e402f7a92a87",
+          "answer": "☝️Ver Imagen☝️\nescribir la palabra *Volver* para regresar al *Menú Principal* ",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "24e537afd1b9d3eed5b4209b4a7efc83"
+        },
+        {
+          "ref": "key_ac0b8d48-1642-44ac-a64a-27f0108f097b",
+          "keyword": [
+            "Normativa",
+            "normativa"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "85e4bb0849ce5f0dd069c8a6f64e366e"
+        },
+        {
+          "ref": "ans_91cce388-e9a3-4fa3-be2e-89f23b7e338e",
+          "keyword": "key_ac0b8d48-1642-44ac-a64a-27f0108f097b",
+          "answer": "Aguarde unos segundos...⏳",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "ede033ae4fea8e2590c1f2e510a986ba"
+        },
+        {
+          "ref": "ans_16e0f8f1-8bb4-4581-b3cd-7f84c4e159e7",
+          "keyword": "ans_91cce388-e9a3-4fa3-be2e-89f23b7e338e",
+          "answer": "☝️ *Puedes Descargar el video* ☝️",
+          "options": {
+            "media": "https://firebasestorage.googleapis.com/v0/b/alojamiento-e7d29.appspot.com/o/videoplayback.mp4?alt=media&token=92bb86d1-220a-4594-9a6e-93b2c5243ee5",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "cf64f665338141cc0dfbe194be2e3e3c"
+        },
+        {
+          "ref": "ans_4268f50d-4bec-4295-9ae5-9832c47e6493",
+          "keyword": "ans_16e0f8f1-8bb4-4581-b3cd-7f84c4e159e7",
+          "answer": "Ley Nacional de Transito N° 24.449, Art. 40",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "506793623eba895bdb45ea1379b20ada"
+        },
+        {
+          "ref": "ans_3f223630-3446-4fc5-9b86-0e8b2e9273d5",
+          "keyword": "ans_4268f50d-4bec-4295-9ae5-9832c47e6493",
+          "answer": "escribir la palabra *Volver* para regresar al *Menú Principal* ",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "5fb7da928fc5e7eb0a2cade863579649"
+        }
+      ],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "b708615fb674e34a447abfe575e2e3c9",
+    "from": "5493815054243"
+  },
+  {
+    "ref": "a35af1eb-a9a4-4b04-8894-4a8ba7056c6d",
+    "keyword": "b708615fb674e34a447abfe575e2e3c9",
+    "answer": "Licencia",
+    "options": {},
+    "from": "5493815054243",
+    "refSerialize": "616563044e08fabaec01619082ea8f40"
+  },
+  {
+    "ref": "ans_1f303383-ccc9-4096-9834-2c1d89ff760f",
+    "keyword": "key_316fe7b2-6057-4b99-b498-94212a9418b7",
+    "answer": "Requisitos para Obtener la Licencia",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "a7f7ffd9d3a2409b507cb31f9d4c062c",
+    "from": "5493815054243"
+  },
+  {
+    "ref": "ans_9387e72b-412c-433f-82b7-e0fc354b8cbc",
+    "keyword": "ans_1f303383-ccc9-4096-9834-2c1d89ff760f",
+    "answer": "👇 *Selecciona la Opcion* 👇\n *1* 💳Primera vez💳\n *2* 📑Renovación📑\n *3* 📃Ampliación o Cambio de Clase📃\n *4* 📰Duplicado📰\n *5* 👉🏻Aranceles👈🏻",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [
+        {
+          "ref": "key_769fb1f1-037c-4d8d-8f37-4f4a36fe7822",
+          "keyword": "1",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "065e0005da6e5c278a53691e53b48955"
+        },
+        {
+          "ref": "ans_7b6d17f5-8b22-4a8a-a068-0888e1e06609",
+          "keyword": "key_769fb1f1-037c-4d8d-8f37-4f4a36fe7822",
+          "answer": "Aguarde unos segundos...⏳",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "87111bceebacc77620499c9f94a24bb4"
+        },
+        {
+          "ref": "ans_68809adb-c1fe-4f3e-84b4-60ce2215cec0",
+          "keyword": "ans_7b6d17f5-8b22-4a8a-a068-0888e1e06609",
+          "answer": "*Estos son los requisitos*: 💳Primera vez💳\n*CATEGORIAS PARTICULARES*\n*1)* 1 UNA FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* CERTIFICADO DE GRUPO SANGUINEO FIRMADO POR PROFESIONAL MEDICO O BIOQUIMICO\n*3)* COPIA DE LA TARJETA VERDE\n*4)* CERTIFICADO Y BOLETA DE PAGO DEL CENAT:➡️ https://boletadepago.seguridadvial.gob.ar/ ",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "e3fbd627c8da20780a19617d578da0a9"
+        },
+        {
+          "ref": "ans_1427c16f-2973-4915-90bb-aa31b891564d",
+          "keyword": "ans_68809adb-c1fe-4f3e-84b4-60ce2215cec0",
+          "answer": "*CATEGORIAS PROFESIONALES D1 – D2 – D3*\n*1)* 1 UNA FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* 1 UNA FOTOCOPIA DE LA LICENCIA O CERTIFICACION QUE ACREDITE UN AÑO DE ANTIGÜEDAD EN CONDUCCION DE AUTO PARTICULAR\n*3)* CERTIFICADO DE BUENA CONDUCTA EMITIDO POR LA POLICÍA PROVINCIAL:➡️ http://www.policiadetucuman.gov.ar/certificados_antecedentes.htm\n*4)* CERTIFICADO DE REINCIDENCIA Y PEDIDO DEL CERTIFICADO:➡️ https://www.argentina.gob.ar/justicia/reincidencia\n*5)* CERTIFICADO DE GRUPO SANGUINEO FIRMADO POR PROFESIONAL MEDICO O BIOQUIMICO\n*6)* COPIA DE LA TARJETA VERDE\n*7)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ ",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "dae288a24531c795b163f42e4024c0b5"
+        },
+        {
+          "ref": "ans_3c8bf176-606c-48f6-897e-9940a059f436",
+          "keyword": "ans_1427c16f-2973-4915-90bb-aa31b891564d",
+          "answer": "*MENORES PARTICULARES* \n*1)* 1 UNA FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* CERTIFICADO DE GRUPO SANGUINEO FIRMADO POR PROFESIONAL MEDICO O BIOQUIMICO\n*3)* COPIA DE LA TARJETA VERDE\n*4)* AUTORIZACIÓN DE LOS PADRES O TUTORES\n*5)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ \nescribir la palabra *Volver* para regresar al *Menú Principal* ",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "83f5a6c215cb683ec8c973dc78318d86"
+        },
+        {
+          "ref": "key_d43ad483-7eeb-4637-b97a-d07847685559",
+          "keyword": "2",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "900c9aa0094bfcca4a316ec66236e2fc"
+        },
+        {
+          "ref": "ans_3903f9d2-d9da-421d-8299-16b4105e72f9",
+          "keyword": "key_d43ad483-7eeb-4637-b97a-d07847685559",
+          "answer": "Aguarde unos segundos...⏳",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "88e5486d292745264a5028b752594f14"
+        },
+        {
+          "ref": "ans_07ad2d10-719a-49f1-b499-6f3a3ef32e79",
+          "keyword": "ans_3903f9d2-d9da-421d-8299-16b4105e72f9",
+          "answer": "*La renocación no debe exeder los 90 días del vencimiento*:\n*CATEGORIAS PARTICULARES*\n*1)* FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* ORIGINAL Y COPIA LICENCIA DE CONDUCIR VENCIDA\n*3)* COPIA DE LA TARJETA VERDE\n*4)* CERTIFICADO Y BOLETA DE PAGO DEL CENAT:➡️ https://boletadepago.seguridadvial.gob.ar/ ",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "1946df2a4039f9c8f6d4513b7aff986a"
+        },
+        {
+          "ref": "ans_a5c908ba-fff6-4c79-bf67-42afa9647373",
+          "keyword": "ans_07ad2d10-719a-49f1-b499-6f3a3ef32e79",
+          "answer": "*CATEGORIAS PROFESIONALES D1 – D2 – D3*\n*1)* FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* ORIGINAL Y COPIA LICENCIA DE CONDUCIR VENCIDA\n*3)* CERTIFICADO DE BUENA CONDUCTA EMITIDO POR LA POLICÍA PROVINCIAL:➡️ http://www.policiadetucuman.gov.ar/certificados_antecedentes.htm\n*4)* CERTIFICADO DE REINCIDENCIA Y PEDIDO DEL CERTIFICADO:➡️ https://www.argentina.gob.ar/justicia/reincidencia\n*5)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ \nescribir la palabra *Volver* para regresar al *Menú Principal* ",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "ba21199049284f6e05f9df0a580c689e"
+        },
+        {
+          "ref": "key_7b198744-7de6-4482-a017-e730d53f7570",
+          "keyword": "3",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "741cd7b8654e06cc47783fa3ba233c53"
+        },
+        {
+          "ref": "ans_aea3bccb-f20b-4b87-8c36-74ef8b2cd05d",
+          "keyword": "key_7b198744-7de6-4482-a017-e730d53f7570",
+          "answer": "Aguarde unos segundos...⏳",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "8f1efa14d9b53f5affed88789296fe9a"
+        },
+        {
+          "ref": "ans_0cd9b55b-69ed-4a24-bc6e-ca0b449dd1ff",
+          "keyword": "ans_aea3bccb-f20b-4b87-8c36-74ef8b2cd05d",
+          "answer": "*Estos son los requisitos*: 📃Ampliación o Cambio de Clase📃\n*CATEGORIAS PARTICULARES*\n*1)* FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* ORIGINAL Y COPIA LICENCIA DE CONDUCIR\n*3)* COPIA DE LA TARJETA VERDE\n*4)* CERTIFICADO Y BOLETA DE PAGO DEL CENAT:➡️ https://boletadepago.seguridadvial.gob.ar/ ",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "c32aa0a3d8c79540de67f68826823da8"
+        },
+        {
+          "ref": "ans_ebeca595-1885-4d15-bc7c-3adee5f9cb9e",
+          "keyword": "ans_0cd9b55b-69ed-4a24-bc6e-ca0b449dd1ff",
+          "answer": "*CATEGORIAS PROFESIONALES D1 – D2 – D3*\n*1)* FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* ORIGINAL Y COPIA LICENCIA DE CONDUCIR\n*3)* CERTIFICADO DE BUENA CONDUCTA EMITIDO POR LA POLICÍA PROVINCIAL:➡️ http://www.policiadetucuman.gov.ar/certificados_antecedentes.htm\n*4)* CERTIFICADO DE REINCIDENCIA Y PEDIDO DEL CERTIFICADO:➡️ https://www.argentina.gob.ar/justicia/reincidencia\n*5)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ \nescribir la palabra *Volver* para regresar al *Menú Principal* ",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "5e288e439c1f48c48703ebb66c43385e"
+        },
+        {
+          "ref": "key_a2cbdccb-f932-4500-abcc-a2467ae8f752",
+          "keyword": "4",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "fc09f52170be47fcb14a1cee9c5d3c52"
+        },
+        {
+          "ref": "ans_310d2207-d7dd-4e60-a781-bbb703d17192",
+          "keyword": "key_a2cbdccb-f932-4500-abcc-a2467ae8f752",
+          "answer": "Aguarde unos segundos...⏳",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "050e91307dca729a633518e0445bfa67"
+        },
+        {
+          "ref": "ans_6251f614-e60c-4670-a9fe-5647b06f57cf",
+          "keyword": "ans_310d2207-d7dd-4e60-a781-bbb703d17192",
+          "answer": "*Estos son los requisitos*: 📰Duplicado📰\n*CATEGORIAS PARTICULARES*\n*1)* FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* ORIGINAL Y COPIA LICENCIA DE CONDUCIR\n*3)* DENUNCIA POLICIAL DE EXTRAVIO O ROBO\n*4)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ ",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "9d191652a70a7813260a711569faf68b"
+        },
+        {
+          "ref": "ans_a70e3349-f27a-4029-8fa4-21025d23c28d",
+          "keyword": "ans_6251f614-e60c-4670-a9fe-5647b06f57cf",
+          "answer": "*CATEGORIAS PROFESIONALES D1 – D2 – D3*\n*1)* FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* DENUNCIA POLICIAL DE EXTRAVIO O ROBO\n*3)* CERTIFICADO DE BUENA CONDUCTA EMITIDO POR LA POLICÍA PROVINCIAL:➡️ http://www.policiadetucuman.gov.ar/certificados_antecedentes.htm\n*4)* CERTIFICADO DE REINCIDENCIA Y PEDIDO DEL CERTIFICADO:➡️ https://www.argentina.gob.ar/justicia/reincidencia\n*5)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ \nescribir la palabra *Volver* para regresar al *Menú Principal* ",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "4aef3fc48d9e9386bdbcbb4d629a5a3d"
+        },
+        {
+          "ref": "key_c1323a90-82aa-478b-94e2-b77b9510f341",
+          "keyword": "5",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "660d6f380cd3d2aa67431f161ba4eccf"
+        },
+        {
+          "ref": "ans_af6f33b5-634c-49a2-8d64-a245d8589d40",
+          "keyword": "key_c1323a90-82aa-478b-94e2-b77b9510f341",
+          "answer": "Aguarde unos segundos...⏳",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "3b072cbce0a550d94ef184cba287bd4f"
+        },
+        {
+          "ref": "ans_8b42b496-734c-4ea6-ae84-1c3e515b3fdd",
+          "keyword": "ans_af6f33b5-634c-49a2-8d64-a245d8589d40",
+          "answer": "*(Valor x año + CENAT)*",
+          "options": {
+            "media": "https://firebasestorage.googleapis.com/v0/b/alojamiento-e7d29.appspot.com/o/ARANCELES.png?alt=media&token=b9540e8d-5672-4cd6-8de9-464659b52ae2",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "8f0a2c35f56f8523cbbbb8642f20cd00"
+        },
+        {
+          "ref": "ans_8886b9cd-ba0e-4e14-88db-e4bc86877771",
+          "keyword": "ans_8b42b496-734c-4ea6-ae84-1c3e515b3fdd",
+          "answer": "☝️Ver Imagen☝️\nescribir la palabra *Volver* para regresar al *Menú Principal* ",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "4b7191eaaa42e3835bc3376361e1bc23"
+        }
+      ],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "fd006b116d078d97a299db0fc40c2746",
+    "from": "5493815054243"
+  },
+  {
+    "ref": "9a90dd0e-bdca-4fed-b8b2-78a260f1927d",
+    "keyword": "fd006b116d078d97a299db0fc40c2746",
+    "answer": "1",
+    "options": {},
+    "from": "5493815054243",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_7b6d17f5-8b22-4a8a-a068-0888e1e06609",
+    "keyword": "key_769fb1f1-037c-4d8d-8f37-4f4a36fe7822",
+    "answer": "Aguarde unos segundos...⏳",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "87111bceebacc77620499c9f94a24bb4",
+    "from": "5493815054243"
+  },
+  {
+    "ref": "ans_68809adb-c1fe-4f3e-84b4-60ce2215cec0",
+    "keyword": "ans_7b6d17f5-8b22-4a8a-a068-0888e1e06609",
+    "answer": "*Estos son los requisitos*: 💳Primera vez💳\n*CATEGORIAS PARTICULARES*\n*1)* 1 UNA FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* CERTIFICADO DE GRUPO SANGUINEO FIRMADO POR PROFESIONAL MEDICO O BIOQUIMICO\n*3)* COPIA DE LA TARJETA VERDE\n*4)* CERTIFICADO Y BOLETA DE PAGO DEL CENAT:➡️ https://boletadepago.seguridadvial.gob.ar/ ",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "e3fbd627c8da20780a19617d578da0a9",
+    "from": "5493815054243"
+  },
+  {
+    "ref": "ans_1427c16f-2973-4915-90bb-aa31b891564d",
+    "keyword": "ans_68809adb-c1fe-4f3e-84b4-60ce2215cec0",
+    "answer": "*CATEGORIAS PROFESIONALES D1 – D2 – D3*\n*1)* 1 UNA FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* 1 UNA FOTOCOPIA DE LA LICENCIA O CERTIFICACION QUE ACREDITE UN AÑO DE ANTIGÜEDAD EN CONDUCCION DE AUTO PARTICULAR\n*3)* CERTIFICADO DE BUENA CONDUCTA EMITIDO POR LA POLICÍA PROVINCIAL:➡️ http://www.policiadetucuman.gov.ar/certificados_antecedentes.htm\n*4)* CERTIFICADO DE REINCIDENCIA Y PEDIDO DEL CERTIFICADO:➡️ https://www.argentina.gob.ar/justicia/reincidencia\n*5)* CERTIFICADO DE GRUPO SANGUINEO FIRMADO POR PROFESIONAL MEDICO O BIOQUIMICO\n*6)* COPIA DE LA TARJETA VERDE\n*7)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ ",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "dae288a24531c795b163f42e4024c0b5",
+    "from": "5493815054243"
+  },
+  {
+    "ref": "ans_3c8bf176-606c-48f6-897e-9940a059f436",
+    "keyword": "ans_1427c16f-2973-4915-90bb-aa31b891564d",
+    "answer": "*MENORES PARTICULARES* \n*1)* 1 UNA FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* CERTIFICADO DE GRUPO SANGUINEO FIRMADO POR PROFESIONAL MEDICO O BIOQUIMICO\n*3)* COPIA DE LA TARJETA VERDE\n*4)* AUTORIZACIÓN DE LOS PADRES O TUTORES\n*5)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ \nescribir la palabra *Volver* para regresar al *Menú Principal* ",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "83f5a6c215cb683ec8c973dc78318d86",
+    "from": "5493815054243"
+  },
+  {
+    "ref": "9c0a721c-0ac9-4d24-9309-433c16f936f5",
+    "keyword": "83f5a6c215cb683ec8c973dc78318d86",
+    "answer": "Volver",
+    "options": {},
+    "from": "5493815054243",
+    "refSerialize": "22225e69224d8b064bc12975c2c46322"
+  },
+  {
+    "ref": "ans_8cf1fc71-1752-42f3-9b58-675eb1694d98",
+    "keyword": "key_a2beafaf-3fdd-4533-9e22-36a962ed1412",
+    "answer": "👋 Hola, bienvenido/a al 🤖*Chatbot de Transito*🤖,te ayudaré a responder tu consulta:",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "80724737ec261347a38a7ff235d13824",
+    "from": "5493815054243"
+  },
+  {
+    "ref": "ans_6f26b72e-cc9d-4536-b198-f831a7acb513",
+    "keyword": "ans_8cf1fc71-1752-42f3-9b58-675eb1694d98",
+    "answer": "👇 *Escribí tu consulta* 👇\n👉 *Licencia*\n👉 *Normativa*\n👉 *Categorias*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [
+        {
+          "ref": "key_316fe7b2-6057-4b99-b498-94212a9418b7",
+          "keyword": [
+            "Licencia",
+            "licencia"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "274527b899fb334398063554deecd93f"
+        },
+        {
+          "ref": "ans_1f303383-ccc9-4096-9834-2c1d89ff760f",
+          "keyword": "key_316fe7b2-6057-4b99-b498-94212a9418b7",
+          "answer": "Requisitos para Obtener la Licencia",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "a7f7ffd9d3a2409b507cb31f9d4c062c"
+        },
+        {
+          "ref": "ans_9387e72b-412c-433f-82b7-e0fc354b8cbc",
+          "keyword": "ans_1f303383-ccc9-4096-9834-2c1d89ff760f",
+          "answer": "👇 *Selecciona la Opcion* 👇\n *1* 💳Primera vez💳\n *2* 📑Renovación📑\n *3* 📃Ampliación o Cambio de Clase📃\n *4* 📰Duplicado📰\n *5* 👉🏻Aranceles👈🏻",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [
+              {
+                "ref": "key_769fb1f1-037c-4d8d-8f37-4f4a36fe7822",
+                "keyword": "1",
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "065e0005da6e5c278a53691e53b48955"
+              },
+              {
+                "ref": "ans_7b6d17f5-8b22-4a8a-a068-0888e1e06609",
+                "keyword": "key_769fb1f1-037c-4d8d-8f37-4f4a36fe7822",
+                "answer": "Aguarde unos segundos...⏳",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "87111bceebacc77620499c9f94a24bb4"
+              },
+              {
+                "ref": "ans_68809adb-c1fe-4f3e-84b4-60ce2215cec0",
+                "keyword": "ans_7b6d17f5-8b22-4a8a-a068-0888e1e06609",
+                "answer": "*Estos son los requisitos*: 💳Primera vez💳\n*CATEGORIAS PARTICULARES*\n*1)* 1 UNA FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* CERTIFICADO DE GRUPO SANGUINEO FIRMADO POR PROFESIONAL MEDICO O BIOQUIMICO\n*3)* COPIA DE LA TARJETA VERDE\n*4)* CERTIFICADO Y BOLETA DE PAGO DEL CENAT:➡️ https://boletadepago.seguridadvial.gob.ar/ ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "e3fbd627c8da20780a19617d578da0a9"
+              },
+              {
+                "ref": "ans_1427c16f-2973-4915-90bb-aa31b891564d",
+                "keyword": "ans_68809adb-c1fe-4f3e-84b4-60ce2215cec0",
+                "answer": "*CATEGORIAS PROFESIONALES D1 – D2 – D3*\n*1)* 1 UNA FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* 1 UNA FOTOCOPIA DE LA LICENCIA O CERTIFICACION QUE ACREDITE UN AÑO DE ANTIGÜEDAD EN CONDUCCION DE AUTO PARTICULAR\n*3)* CERTIFICADO DE BUENA CONDUCTA EMITIDO POR LA POLICÍA PROVINCIAL:➡️ http://www.policiadetucuman.gov.ar/certificados_antecedentes.htm\n*4)* CERTIFICADO DE REINCIDENCIA Y PEDIDO DEL CERTIFICADO:➡️ https://www.argentina.gob.ar/justicia/reincidencia\n*5)* CERTIFICADO DE GRUPO SANGUINEO FIRMADO POR PROFESIONAL MEDICO O BIOQUIMICO\n*6)* COPIA DE LA TARJETA VERDE\n*7)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "dae288a24531c795b163f42e4024c0b5"
+              },
+              {
+                "ref": "ans_3c8bf176-606c-48f6-897e-9940a059f436",
+                "keyword": "ans_1427c16f-2973-4915-90bb-aa31b891564d",
+                "answer": "*MENORES PARTICULARES* \n*1)* 1 UNA FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* CERTIFICADO DE GRUPO SANGUINEO FIRMADO POR PROFESIONAL MEDICO O BIOQUIMICO\n*3)* COPIA DE LA TARJETA VERDE\n*4)* AUTORIZACIÓN DE LOS PADRES O TUTORES\n*5)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ \nescribir la palabra *Volver* para regresar al *Menú Principal* ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "83f5a6c215cb683ec8c973dc78318d86"
+              },
+              {
+                "ref": "key_d43ad483-7eeb-4637-b97a-d07847685559",
+                "keyword": "2",
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "900c9aa0094bfcca4a316ec66236e2fc"
+              },
+              {
+                "ref": "ans_3903f9d2-d9da-421d-8299-16b4105e72f9",
+                "keyword": "key_d43ad483-7eeb-4637-b97a-d07847685559",
+                "answer": "Aguarde unos segundos...⏳",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "88e5486d292745264a5028b752594f14"
+              },
+              {
+                "ref": "ans_07ad2d10-719a-49f1-b499-6f3a3ef32e79",
+                "keyword": "ans_3903f9d2-d9da-421d-8299-16b4105e72f9",
+                "answer": "*La renocación no debe exeder los 90 días del vencimiento*:\n*CATEGORIAS PARTICULARES*\n*1)* FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* ORIGINAL Y COPIA LICENCIA DE CONDUCIR VENCIDA\n*3)* COPIA DE LA TARJETA VERDE\n*4)* CERTIFICADO Y BOLETA DE PAGO DEL CENAT:➡️ https://boletadepago.seguridadvial.gob.ar/ ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "1946df2a4039f9c8f6d4513b7aff986a"
+              },
+              {
+                "ref": "ans_a5c908ba-fff6-4c79-bf67-42afa9647373",
+                "keyword": "ans_07ad2d10-719a-49f1-b499-6f3a3ef32e79",
+                "answer": "*CATEGORIAS PROFESIONALES D1 – D2 – D3*\n*1)* FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* ORIGINAL Y COPIA LICENCIA DE CONDUCIR VENCIDA\n*3)* CERTIFICADO DE BUENA CONDUCTA EMITIDO POR LA POLICÍA PROVINCIAL:➡️ http://www.policiadetucuman.gov.ar/certificados_antecedentes.htm\n*4)* CERTIFICADO DE REINCIDENCIA Y PEDIDO DEL CERTIFICADO:➡️ https://www.argentina.gob.ar/justicia/reincidencia\n*5)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ \nescribir la palabra *Volver* para regresar al *Menú Principal* ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "ba21199049284f6e05f9df0a580c689e"
+              },
+              {
+                "ref": "key_7b198744-7de6-4482-a017-e730d53f7570",
+                "keyword": "3",
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "741cd7b8654e06cc47783fa3ba233c53"
+              },
+              {
+                "ref": "ans_aea3bccb-f20b-4b87-8c36-74ef8b2cd05d",
+                "keyword": "key_7b198744-7de6-4482-a017-e730d53f7570",
+                "answer": "Aguarde unos segundos...⏳",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "8f1efa14d9b53f5affed88789296fe9a"
+              },
+              {
+                "ref": "ans_0cd9b55b-69ed-4a24-bc6e-ca0b449dd1ff",
+                "keyword": "ans_aea3bccb-f20b-4b87-8c36-74ef8b2cd05d",
+                "answer": "*Estos son los requisitos*: 📃Ampliación o Cambio de Clase📃\n*CATEGORIAS PARTICULARES*\n*1)* FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* ORIGINAL Y COPIA LICENCIA DE CONDUCIR\n*3)* COPIA DE LA TARJETA VERDE\n*4)* CERTIFICADO Y BOLETA DE PAGO DEL CENAT:➡️ https://boletadepago.seguridadvial.gob.ar/ ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "c32aa0a3d8c79540de67f68826823da8"
+              },
+              {
+                "ref": "ans_ebeca595-1885-4d15-bc7c-3adee5f9cb9e",
+                "keyword": "ans_0cd9b55b-69ed-4a24-bc6e-ca0b449dd1ff",
+                "answer": "*CATEGORIAS PROFESIONALES D1 – D2 – D3*\n*1)* FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* ORIGINAL Y COPIA LICENCIA DE CONDUCIR\n*3)* CERTIFICADO DE BUENA CONDUCTA EMITIDO POR LA POLICÍA PROVINCIAL:➡️ http://www.policiadetucuman.gov.ar/certificados_antecedentes.htm\n*4)* CERTIFICADO DE REINCIDENCIA Y PEDIDO DEL CERTIFICADO:➡️ https://www.argentina.gob.ar/justicia/reincidencia\n*5)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ \nescribir la palabra *Volver* para regresar al *Menú Principal* ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "5e288e439c1f48c48703ebb66c43385e"
+              },
+              {
+                "ref": "key_a2cbdccb-f932-4500-abcc-a2467ae8f752",
+                "keyword": "4",
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "fc09f52170be47fcb14a1cee9c5d3c52"
+              },
+              {
+                "ref": "ans_310d2207-d7dd-4e60-a781-bbb703d17192",
+                "keyword": "key_a2cbdccb-f932-4500-abcc-a2467ae8f752",
+                "answer": "Aguarde unos segundos...⏳",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "050e91307dca729a633518e0445bfa67"
+              },
+              {
+                "ref": "ans_6251f614-e60c-4670-a9fe-5647b06f57cf",
+                "keyword": "ans_310d2207-d7dd-4e60-a781-bbb703d17192",
+                "answer": "*Estos son los requisitos*: 📰Duplicado📰\n*CATEGORIAS PARTICULARES*\n*1)* FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* ORIGINAL Y COPIA LICENCIA DE CONDUCIR\n*3)* DENUNCIA POLICIAL DE EXTRAVIO O ROBO\n*4)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "9d191652a70a7813260a711569faf68b"
+              },
+              {
+                "ref": "ans_a70e3349-f27a-4029-8fa4-21025d23c28d",
+                "keyword": "ans_6251f614-e60c-4670-a9fe-5647b06f57cf",
+                "answer": "*CATEGORIAS PROFESIONALES D1 – D2 – D3*\n*1)* FOTOCOPIA DEL DNI Y ORIGINAL\n*2)* DENUNCIA POLICIAL DE EXTRAVIO O ROBO\n*3)* CERTIFICADO DE BUENA CONDUCTA EMITIDO POR LA POLICÍA PROVINCIAL:➡️ http://www.policiadetucuman.gov.ar/certificados_antecedentes.htm\n*4)* CERTIFICADO DE REINCIDENCIA Y PEDIDO DEL CERTIFICADO:➡️ https://www.argentina.gob.ar/justicia/reincidencia\n*5)* BOLETA DE CENAT IMPRESA Y PAGADA (impacto inmediato en rapipago o pago fácil):➡️ https://boletadepago.seguridadvial.gob.ar/ \nescribir la palabra *Volver* para regresar al *Menú Principal* ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "4aef3fc48d9e9386bdbcbb4d629a5a3d"
+              },
+              {
+                "ref": "key_c1323a90-82aa-478b-94e2-b77b9510f341",
+                "keyword": "5",
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "660d6f380cd3d2aa67431f161ba4eccf"
+              },
+              {
+                "ref": "ans_af6f33b5-634c-49a2-8d64-a245d8589d40",
+                "keyword": "key_c1323a90-82aa-478b-94e2-b77b9510f341",
+                "answer": "Aguarde unos segundos...⏳",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "3b072cbce0a550d94ef184cba287bd4f"
+              },
+              {
+                "ref": "ans_8b42b496-734c-4ea6-ae84-1c3e515b3fdd",
+                "keyword": "ans_af6f33b5-634c-49a2-8d64-a245d8589d40",
+                "answer": "*(Valor x año + CENAT)*",
+                "options": {
+                  "media": "https://firebasestorage.googleapis.com/v0/b/alojamiento-e7d29.appspot.com/o/ARANCELES.png?alt=media&token=b9540e8d-5672-4cd6-8de9-464659b52ae2",
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "8f0a2c35f56f8523cbbbb8642f20cd00"
+              },
+              {
+                "ref": "ans_8886b9cd-ba0e-4e14-88db-e4bc86877771",
+                "keyword": "ans_8b42b496-734c-4ea6-ae84-1c3e515b3fdd",
+                "answer": "☝️Ver Imagen☝️\nescribir la palabra *Volver* para regresar al *Menú Principal* ",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "4b7191eaaa42e3835bc3376361e1bc23"
+              }
+            ],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "fd006b116d078d97a299db0fc40c2746"
+        },
+        {
+          "ref": "key_04da4c6f-488a-4192-88cf-44bac4acb615",
+          "keyword": [
+            "Categorias",
+            "Categorías",
+            "categorías",
+            "categorias",
+            "categoria",
+            "Categoria"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "1a469ad8247010761e0cf0710e8a0daa"
+        },
+        {
+          "ref": "ans_375e5be6-a131-441a-ae85-599dc151475b",
+          "keyword": "key_04da4c6f-488a-4192-88cf-44bac4acb615",
+          "answer": "Aguarde unos segundos...⏳",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "6593d9f08d075a9cd30bc1eb6f990b26"
+        },
+        {
+          "ref": "ans_1585f088-041a-425e-81e9-e402f7a92a87",
+          "keyword": "ans_375e5be6-a131-441a-ae85-599dc151475b",
+          "answer": "*Categorias y Sub-Categorias*",
+          "options": {
+            "media": "https://villaurquiza.gob.ar/wp-content/uploads/2021/02/categorias.jpg-2.png",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "d065fd1e6f70fd02f889453e9c5ee9cf"
+        },
+        {
+          "ref": "ans_93f89a3e-148a-4bca-ba48-c923591afc57",
+          "keyword": "ans_1585f088-041a-425e-81e9-e402f7a92a87",
+          "answer": "☝️Ver Imagen☝️\nescribir la palabra *Volver* para regresar al *Menú Principal* ",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "24e537afd1b9d3eed5b4209b4a7efc83"
+        },
+        {
+          "ref": "key_ac0b8d48-1642-44ac-a64a-27f0108f097b",
+          "keyword": [
+            "Normativa",
+            "normativa"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "85e4bb0849ce5f0dd069c8a6f64e366e"
+        },
+        {
+          "ref": "ans_91cce388-e9a3-4fa3-be2e-89f23b7e338e",
+          "keyword": "key_ac0b8d48-1642-44ac-a64a-27f0108f097b",
+          "answer": "Aguarde unos segundos...⏳",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "ede033ae4fea8e2590c1f2e510a986ba"
+        },
+        {
+          "ref": "ans_16e0f8f1-8bb4-4581-b3cd-7f84c4e159e7",
+          "keyword": "ans_91cce388-e9a3-4fa3-be2e-89f23b7e338e",
+          "answer": "☝️ *Puedes Descargar el video* ☝️",
+          "options": {
+            "media": "https://firebasestorage.googleapis.com/v0/b/alojamiento-e7d29.appspot.com/o/videoplayback.mp4?alt=media&token=92bb86d1-220a-4594-9a6e-93b2c5243ee5",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "cf64f665338141cc0dfbe194be2e3e3c"
+        },
+        {
+          "ref": "ans_4268f50d-4bec-4295-9ae5-9832c47e6493",
+          "keyword": "ans_16e0f8f1-8bb4-4581-b3cd-7f84c4e159e7",
+          "answer": "Ley Nacional de Transito N° 24.449, Art. 40",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "506793623eba895bdb45ea1379b20ada"
+        },
+        {
+          "ref": "ans_3f223630-3446-4fc5-9b86-0e8b2e9273d5",
+          "keyword": "ans_4268f50d-4bec-4295-9ae5-9832c47e6493",
+          "answer": "escribir la palabra *Volver* para regresar al *Menú Principal* ",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "5fb7da928fc5e7eb0a2cade863579649"
+        }
+      ],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "b708615fb674e34a447abfe575e2e3c9",
+    "from": "5493815054243"
+  },
+  {
+    "ref": "c944bacd-8ec2-4818-bb85-381b48106a42",
+    "keyword": "b708615fb674e34a447abfe575e2e3c9",
+    "answer": "Categorías",
+    "options": {},
+    "from": "5493815054243",
+    "refSerialize": "0c94e48a95b76b8ce742e752a9675a82"
+  },
+  {
+    "ref": "ans_375e5be6-a131-441a-ae85-599dc151475b",
+    "keyword": "key_04da4c6f-488a-4192-88cf-44bac4acb615",
+    "answer": "Aguarde unos segundos...⏳",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "6593d9f08d075a9cd30bc1eb6f990b26",
+    "from": "5493815054243"
+  },
+  {
+    "ref": "ans_1585f088-041a-425e-81e9-e402f7a92a87",
+    "keyword": "ans_375e5be6-a131-441a-ae85-599dc151475b",
+    "answer": "*Categorias y Sub-Categorias*",
+    "options": {
+      "media": "https://villaurquiza.gob.ar/wp-content/uploads/2021/02/categorias.jpg-2.png",
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "d065fd1e6f70fd02f889453e9c5ee9cf",
+    "from": "5493815054243"
+  },
+  {
+    "ref": "ans_93f89a3e-148a-4bca-ba48-c923591afc57",
+    "keyword": "ans_1585f088-041a-425e-81e9-e402f7a92a87",
+    "answer": "☝️Ver Imagen☝️\nescribir la palabra *Volver* para regresar al *Menú Principal* ",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "24e537afd1b9d3eed5b4209b4a7efc83",
+    "from": "5493815054243"
+  }
+]
